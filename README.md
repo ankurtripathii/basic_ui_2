@@ -1,17 +1,4 @@
 # basic_ui_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1440" height="900" alt="Screenshot 2026-05-18 at 4 00 37 PM" src="https://github.com/user-attachments/assets/c6683182-ae24-4152-9d78-4afcec088089" />
+<img width="1440" height="900" alt="Screenshot 2026-05-18 at 4 00 28 PM" src="https://github.com/user-attachments/assets/813ebb7e-3e48-4eb9-b1b0-80d6c4062778" />
+<img width="1440" height="900" alt="Screenshot 2026-05-18 at 4 00 22 PM" src="https://github.com/user-attachments/assets/db4155aa-dd83-45a1-84aa-99e49d27f4c9" />
